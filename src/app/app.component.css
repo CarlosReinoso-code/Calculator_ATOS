@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    vertical-align: middle;
+}
+
+img {
+    border: 2px solid black;
+}
+
+.title {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+    border: 3px dotted black;
+}
+
+.operation_buttons input {
+    width: 50px;
+    height: 40px;
+    margin: 2px 2px;
+}
